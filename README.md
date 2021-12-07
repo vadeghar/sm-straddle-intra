@@ -1,6 +1,6 @@
 # sm-straddle-intra
 
-Dtt - Straddle strategy
+Dtt - Straddle intraday strategy
 
 BUY ATM - with 50% SL at both sides
 Eg: Sold 36000 CE at 200 with SL if 200 + 50% of 200 = 300
